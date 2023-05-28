@@ -9,7 +9,7 @@
       "fb587952573481521"
     ],
     "orientation": "portrait",
-    "icon": "./assets/login_img.png",
+    "icon": "./assets/logo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/login_img.png",
@@ -39,7 +39,7 @@
         }
       },
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.hpcc.bussmart"
